@@ -1,0 +1,12 @@
+{
+  "name": "MA2_yarn",
+  "version": "1.0.0",
+  "description": "Module Assignment 2: Yarn",
+  "main": "index.js",
+  "repository": "https://github.com/doristef/yarn.git",
+  "author": "Halldor Valur Stefansson <doristef@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
